@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 
 import 'package:student_zone_app/database/model/student_model.dart';
 import 'package:student_zone_app/screens/add_details_screen/add_details.dart';
-import 'package:student_zone_app/screens/update_student_screen.dart';
+import 'package:student_zone_app/screens/update_student/update_student_screen.dart';
 
 class StudentDetails extends StatelessWidget {
   final StudentModel data;

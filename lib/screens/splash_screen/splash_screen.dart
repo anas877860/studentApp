@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:student_zone_app/screens/home_page.dart';
+import 'package:student_zone_app/screens/home_page/home_page.dart';
 
 class SplashScreen extends StatelessWidget {
   const SplashScreen({Key? key}) : super(key: key);

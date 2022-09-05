@@ -4,7 +4,7 @@ import 'package:student_zone_app/database/model/student_model.dart';
 
 
 
-import 'package:student_zone_app/screens/splash_screen.dart';
+import 'package:student_zone_app/screens/splash_screen/splash_screen.dart';
 
 Future <void> main()async {
   WidgetsFlutterBinding.ensureInitialized();

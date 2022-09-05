@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:student_zone_app/database/dbfunction/db_functions.dart';
-import 'package:student_zone_app/screens/student_details.dart';
+import 'package:student_zone_app/screens/student_details/student_details.dart';
 
 showAlertDialog(context, index) {
   final alert = AlertDialog(

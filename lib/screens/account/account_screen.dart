@@ -6,7 +6,7 @@ import 'package:student_zone_app/database/dbfunction/db_functions.dart';
 import 'package:student_zone_app/database/model/student_model.dart';
 import 'package:student_zone_app/screens/account/widgets/widgets.dart';
 import 'package:student_zone_app/screens/add_details_screen/add_details.dart';
-import 'package:student_zone_app/screens/student_details.dart';
+import 'package:student_zone_app/screens/student_details/student_details.dart';
 
 class AccountScreen extends StatelessWidget {
   const AccountScreen({Key? key}) : super(key: key);
